@@ -5,10 +5,17 @@ ___
 -  ⚡ Fun fact: Problem Solving enthusiastic 😁
 ___
 ### ⚡ Tech Stack
+<table>
+  <tr>
+    
 - :computer: Java :coffee: | C | Python :snake:
 - 🌐 Html | Css | Js 
-- :octocat: Git | Github  <img src="https://i.pinimg.com/originals/e6/29/49/e6294964e26db35f05e41e25e689b19d.gif" width="350" title="fixing some bugs">
+- :octocat: Git | Github  
 - Postman | yark
+    <td><img src="cat.gif" width="100" title="fixing some bugs"></td>
+  </tr>
+ </table>
+
 ___
 
 ### 📫 Get in touch: 
