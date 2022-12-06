@@ -1,6 +1,6 @@
 ### Hey there! I'm Nawfel✨
 ___
-- 🌱 I'm currently learning **Angular 2+** & **Spring Boot**.
+- 🌱 I'm currently learning the **MERN stack** .
 - 💡 I love innovation and new technologies
 -  ⚡ Fun fact: Problem Solving enthusiastic 😁
 ___
