@@ -1,5 +1,6 @@
 ### Hey there! I'm Nawfel✨
 ___
+- I am a **Top Rated** Angular Developer on Upwork ✅
 - 🌱 I'm currently learning the **MERN stack** .
 - 💡 I love innovation and new technologies
 -  ⚡ Fun fact: Problem Solving enthusiastic 😁
